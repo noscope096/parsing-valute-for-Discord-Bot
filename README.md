@@ -9,7 +9,8 @@
 	8.Invite your bot to channel.
 	9.In channel type "!course". Bot must send the course of valute with a delay of ~ 5 seconds.
 	
-If you need help with this bot write to my email address: noscope096@gmail.com
 
 	Enjoy using it!
 									NoScOpE
+									
+				
